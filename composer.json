@@ -1,0 +1,13 @@
+{
+    "name": "haichenglouzhu/dome",
+    "description": "test composer dome",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xingzhilong",
+            "email": "339191949@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
